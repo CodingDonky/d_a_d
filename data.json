@@ -1,0 +1,149 @@
+[
+    {
+        "name": "test",
+        "species": "test",
+        "subtype": "test",
+        "cr": "test",
+        "alignment": "test",
+        "language": "test",
+        "stealth": "test",
+        "aggression": "test",
+        "speed": "test",
+        "size": "test",
+        "undead": "test",
+        "hp": "test",
+        "ac": "test",
+        "attributes": {
+            "strength": 10,
+            "dexterity": 9,
+            "constitution": 12,
+            "intelligence": 7,
+            "wisdom": 6,
+            "charisma": 5
+        },
+        "condition_immunities": [
+            "test"
+        ],
+        "damage_immunities": [
+            "test"
+        ],
+        "damage_resistances": [
+            "test"
+        ],
+        "damage_vulnerabilities": [
+            "test"
+        ],
+        "attacks": [
+            "test"
+        ],
+        "special_attacks": [
+            "test"
+        ],
+        "spells": [
+            "test"
+        ]
+    },
+    {
+        "name": "test",
+        "species": "test",
+        "subtype": "test",
+        "cr": "test",
+        "alignment": "test",
+        "language": "test",
+        "stealth": "test",
+        "aggression": "test",
+        "speed": "test",
+        "size": "test",
+        "undead": "test",
+        "hp": "test",
+        "ac": "test",
+        "attributes": {
+            "strength": 10,
+            "dexterity": 9,
+            "constitution": 12,
+            "intelligence": 7,
+            "wisdom": 6,
+            "charisma": 5
+        },
+        "condition_immunities": [
+            "test"
+        ],
+        "damage_immunities": [
+            "test"
+        ],
+        "damage_resistances": [
+            "test"
+        ],
+        "damage_vulnerabilities": [
+            "test"
+        ],
+        "attacks": [
+            "test"
+        ],
+        "special_attacks": [
+            "test"
+        ],
+        "spells": [
+            "test"
+        ]
+    },
+    {
+        "cr": "1",
+        "species": "Human",
+        "name": "Bandit",
+        "size": "Medium",
+        "undead": "False",
+        "subtype": "",
+        "alignment": "NE",
+        "ac": 8,
+        "hp": 22,
+        "speed": "5",
+        "aggression": "4",
+        "attributes": {
+            "strength": 10,
+            "dexterity": 9,
+            "constitution": 12,
+            "intelligence": 7,
+            "wisdom": 6,
+            "charisma": 5
+        },
+        "damage_vulnerabilities": [
+            "fire-20",
+            "psychic-50"
+        ],
+        "damage_resistances": [
+            ""
+        ],
+        "damage_immunities": [
+            ""
+        ],
+        "condition_immunities": [
+            "panicked"
+        ],
+        "languages": [
+            "common"
+        ],
+        "stealth": "1",
+        "attacks": [
+            {
+                "name": "Punch",
+                "desc": "The bandit takes a swing at you.",
+                "range": "touch",
+                "attack_bonus": "4",
+                "attack_bonus_dice": "1d6",
+                "damage_bonus": "4",
+                "damage_dice": "2d4",
+                "damage_type": "Blunt",
+                "condition": ""
+            }
+        ],
+        "special_attacks": [
+            {
+                "name": "Fart."
+            }
+        ],
+        "spells": [
+            ""
+        ]
+    }
+]
